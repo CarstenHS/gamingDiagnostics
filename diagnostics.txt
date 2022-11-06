@@ -1,0 +1,6 @@
+06-11-2022 20:34:05
+CPU: 3.74%
+GPU: 0.27%
+RAM: 63.53%
+AvgBandwidth: 0 Mbit
+
