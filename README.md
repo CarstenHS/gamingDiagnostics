@@ -1,7 +1,7 @@
 # gamingDiagnostics
 
 GamingDiagnostics is a small script for sampling computer hardware utilization.
- It was created to be able to diagnose my sons PC in order to figure out which hardware unit in the PC is guilty of low FPS.
+ It was created to be able to diagnose my sons PC in order to figure out which hardware unit in the PC was guilty of low FPS.
 
  Just run the script before gaming, start gaming, and note the time where the game lags and compare to the timestamped entries in the created ```diagnostics.txt``` file.
 
