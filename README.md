@@ -28,3 +28,5 @@ GPU: 0.27%
 RAM: 63.53%
 AvgBandwidth: 0 Mbit
 ```
+
+I'd say anything above 90% is a good candidate of limiting the FPS.
